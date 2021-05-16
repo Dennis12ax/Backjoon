@@ -19,22 +19,3 @@ for i,j in count:
 
 print(cnt)
 
-
-# for i in range(N):
-#     for j in range(i+1,N):
-#         if (count[i][1]-count[i][0]) > (count[j][1]-count[j][0]):
-#             temp = count[i]
-#             count[i] = count[j]
-#             count[j] = temp
-
-# print(count)
-
-# for i in range(N):
-#     result.append(count[i])
-
-# for i in ragne(N):
-#     for j in range(i+1,N):
-        
-
-
-# print(result)
